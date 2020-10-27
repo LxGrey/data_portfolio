@@ -28,10 +28,11 @@
 * Technologies used: Swift, UIKit, Firebase, CoreData, SafariServices, Codable, DiffableData, Git)
 
 * Functionality: 
-  *Allows users to search for a GitHub user 
-  *pull a list of their followers 
-  *search through their followers' followers 
-  *view GitHub profiles in-app (safari ViewController) 
-  *save interesting profiles to a favorites list that syncs to the cloud
+*Allows users to search for a GitHub user 
+*pull a list of their followers 
+*search through their followers' followers 
+*view GitHub profiles in-app (safari ViewController) 
+*save interesting profiles to a favorites list that syncs to the cloud
+
 * Followed guide for base functionality; expanded by adding cloud database (Firebase), custom error-handling, custom UI elements, edge-case optimization, iPad adaptibilty, and refactored Networking for faster downloading/caching
 * Images below: 
