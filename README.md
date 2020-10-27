@@ -7,11 +7,13 @@
 * (Technologies used: R, RStudio, ggplot2, Excel, Git)
 * Capstone Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
 * Collected multivariate time-series data for commodity indices (coffee, arabica beans, tea, etc.) streching back to 1980
-* Explored data correlation with autoregressive, ARIMA, and Rolling Forecasting models 
+* Explored data correlation with AutoRegressive, Distributed Lag, ADL, and Rolling Forecasting models 
 * Constructed Rolling Forecast models from scratch (as per project requirements)to predict future commodity index prices
 * Presented research and data visualizations to students and faculty during a panel presentation
 
-*_____
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/forecast.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/result_summary.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/graph.png?raw=true)
 
 
 # Project 2: Targeted Email Algorithm 
