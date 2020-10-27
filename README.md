@@ -35,6 +35,15 @@
 * save interesting profiles to a favorites list that syncs to the cloud
 
 * Followed guide for base concenpt and design; expanded by adding cloud database (Firebase), custom error-handling, custom UI elements, edge-case optimization, iPad adaptibilty, and refactored Networking for faster downloading/caching
-* Images below: 
+* In-app Images below: 
+
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searscreen_typing.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchresults.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_followerclicked.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_followerfollowers.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_followergithub.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_favorited.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_favoriteslist.png)
 
 
