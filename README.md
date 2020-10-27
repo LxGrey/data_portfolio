@@ -27,7 +27,7 @@
 # Software Projects:
 
 ## [Project 1: Github Followers iOS App](https://github.com/LxGrey/GHFollowers)
-* Technologies used: Swift, UIKit, Firebase, CoreData, SafariServices, Codable, DiffableData, Git)
+* Technologies used: Swift, UIKit, Firebase, CoreData, SafariServices, Codable, DiffableData, Git, GitHub API)
 
 * Functionality: 
   * search for a GitHub user 
@@ -36,7 +36,7 @@
   * view GitHub profiles in-app (Safari ViewController) 
   * save interesting profiles to a favorites list that syncs to the cloud
 
-* Followed guide for base concenpt and design; expanded by adding cloud database (Firebase), custom error-handling, custom UI elements, edge-case optimization, iPad adaptibilty, and refactored Networking for faster downloading/caching
+* Followed guide for base concept and design; expanded by adding cloud database (Firebase), custom error-handling, custom UI elements, edge-case optimization, iPad adaptibilty, and refactored Networking for faster downloading/caching
 * In-app Images below: 
 
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png?raw=true)
