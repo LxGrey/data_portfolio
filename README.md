@@ -37,7 +37,7 @@
 * Followed guide for base concenpt and design; expanded by adding cloud database (Firebase), custom error-handling, custom UI elements, edge-case optimization, iPad adaptibilty, and refactored Networking for faster downloading/caching
 * In-app Images below: 
 
-![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png?raw=true)
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png?raw=true)
 
 
