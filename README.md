@@ -38,7 +38,12 @@
 * In-app Images below: 
 
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searscreen_typing.png?raw=true)
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchresults.png?raw=true)
-
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_followerclicked.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_followerfollowers.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_followergithub.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_favorited.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_favoriteslist.png?raw=true)
 
 
