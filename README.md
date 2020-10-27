@@ -11,8 +11,8 @@
 * Constructed Rolling Forecast models from scratch (as per project requirements)to predict future commodity index prices
 * Presented research and data visualizations to students and faculty during a panel presentation
 
-![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/forecast.png?raw=true)
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/result_summary.png?raw=true)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/forecast.png?raw=true)
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/graph.png?raw=true)
 
 
