@@ -38,6 +38,7 @@
 * In-app Images below: 
 
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png)
+![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png?raw=true)
 
 
 
