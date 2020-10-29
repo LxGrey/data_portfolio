@@ -16,6 +16,8 @@
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/graph.png?raw=true)
 
 
+
+
 ## Project 2: Targeted Email Algorithm 
 * (Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git)
 * Contributed to Company proprietary email targeting algorithm for improving customer participation and savings rates
@@ -24,7 +26,11 @@
 * Assisted in A/B testing dozens of email template changes based on previous analysis, driving a 60% increase in click-through rate
 
 
+
+
+
 # Software Projects:
+
 
 ## [Project 1: Github Followers iOS App](https://github.com/LxGrey/GHFollowers)
 * Technologies used: Swift, UIKit, Firebase, CoreData, SafariServices, Codable, DiffableData, Git, GitHub API)
