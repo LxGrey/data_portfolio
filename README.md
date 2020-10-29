@@ -4,7 +4,9 @@
 ## Analytics Projects:
 
 ### Analytics Project 1: Targeted Email Algorithm 
-* (Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git)
+-Professional work
+
+* Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git
 * Contributed to Company proprietary email targeting algorithm for improving customer participation and savings rates
 * Explored relationships of ~30 customer demographic and activity data points
 * Constructed ad-hoc reports and visualizations in R, presented to a cross-functional product team
@@ -15,7 +17,7 @@
 ### [Analytics Project 2: Forecasting Coffee Index Prices](https://github.com/LxGrey/coffee_indices)
 -Academic project
 
-* (Technologies used: R, RStudio, ggplot2, Excel, Git)
+* Technologies used: R, RStudio, ggplot2, Excel, Git
 * Capstone Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
 * Collected multivariate time-series data for commodity indices (coffee, arabica beans, tea, etc.) streching back to 1980
 * Explored data correlation with AutoRegressive, Distributed Lag, ADL, and Rolling Forecasting models 
@@ -28,9 +30,9 @@
 
 
 ### Analytics Project 3: Can Commodity Prices Predict Currency Exchange Rates
-* *Academic project
+-Academic project
 
-* (Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git)
+* Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git
 * Contributed to Company proprietary email targeting algorithm for improving customer participation and savings rates
 * Explored relationships of ~30 customer demographic and activity data points
 * Constructed ad-hoc reports and visualizations in R, presented to a cross-functional product team
