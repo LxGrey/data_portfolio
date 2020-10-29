@@ -13,7 +13,7 @@
 
 
 ### [Analytics Project 2: Forecasting Coffee Index Prices](https://github.com/LxGrey/coffee_indices)
-* *Academic project
+-Academic project
 
 * (Technologies used: R, RStudio, ggplot2, Excel, Git)
 * Capstone Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
