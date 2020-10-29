@@ -1,7 +1,7 @@
 # Portfolio 
 
 
-# Analytics Projects:
+## Analytics Projects:
 
 ### [Project 1: Forecasting Coffee Index Prices](https://github.com/LxGrey/coffee_indices)
 * (Technologies used: R, RStudio, ggplot2, Excel, Git)
@@ -29,7 +29,7 @@
 
 
 
-# Software Projects:
+## Software Projects:
 
 
 ## [Project 1: Github Followers iOS App](https://github.com/LxGrey/GHFollowers)
