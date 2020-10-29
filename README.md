@@ -3,7 +3,7 @@
 
 ## Analytics Projects:
 
-### [Project 1: Forecasting Coffee Index Prices](https://github.com/LxGrey/coffee_indices)
+### [Analytics Project 1: Forecasting Coffee Index Prices](https://github.com/LxGrey/coffee_indices)
 * (Technologies used: R, RStudio, ggplot2, Excel, Git)
 * Capstone Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
 * Collected multivariate time-series data for commodity indices (coffee, arabica beans, tea, etc.) streching back to 1980
@@ -18,7 +18,7 @@
 
 
 
-### Project 2: Targeted Email Algorithm 
+### Analytics Project 2: Targeted Email Algorithm 
 * (Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git)
 * Contributed to Company proprietary email targeting algorithm for improving customer participation and savings rates
 * Explored relationships of ~30 customer demographic and activity data points
@@ -32,7 +32,7 @@
 ## Software Projects:
 
 
-## [Project 1: Github Followers iOS App](https://github.com/LxGrey/GHFollowers)
+## [Software Project 1: Github Followers iOS App](https://github.com/LxGrey/GHFollowers)
 * Technologies used: Swift, UIKit, Firebase, CoreData, SafariServices, Codable, DiffableData, Git, GitHub API)
 
 * Functionality: 
