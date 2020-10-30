@@ -15,10 +15,9 @@
 
 
 ### [Analytics Project 2: Forecasting Coffee Index Prices](https://github.com/LxGrey/coffee_indices)
--Academic project
+-Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
 
 * Technologies used: R, RStudio, ggplot2, Excel, Git
-* Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
 * Collected multivariate time-series data for commodity indices (coffee, arabica beans, tea, etc.) streching back to 1980
 * Explored data correlation with AutoRegressive, Distributed Lag, ADL, and Rolling Forecasting models in R
 * Constructed Rolling Forecast models from scratch (as per project requirements) to predict future commodity index prices
@@ -30,10 +29,9 @@
 
 
 ### Analytics Project 3: Can Commodity Prices Predict Currency Exchange Rates
--Academic project
+-Capstone Undergraduate Research Project
 
 * Technologies used: Python, R, ggplot2, Excel
-* Capstone Undergraduate Research Project
 * Developed project Thesis; explored hypothesis that in certain economies, which rely heavily on a single commodity export, commodity prices can influence the countries' currency exchange rates against the U.S. Dollar
 * Collected and cleaned several sets of commodity price and exchange rate data
 * Constructed statistical analysis and created summary reports of findings in Python
