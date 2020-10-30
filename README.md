@@ -18,11 +18,11 @@
 -Academic project
 
 * Technologies used: R, RStudio, ggplot2, Excel, Git
-* Capstone Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
+* Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
 * Collected multivariate time-series data for commodity indices (coffee, arabica beans, tea, etc.) streching back to 1980
-* Explored data correlation with AutoRegressive, Distributed Lag, ADL, and Rolling Forecasting models 
+* Explored data correlation with AutoRegressive, Distributed Lag, ADL, and Rolling Forecasting models in R
 * Constructed Rolling Forecast models from scratch (as per project requirements) to predict future commodity index prices
-* Presented research and data visualizations to students and faculty during a panel presentation
+* Presented research and data visualizations to students and course professor 
 
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/result_summary.png?raw=true)
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/forecast.png?raw=true)
@@ -32,11 +32,13 @@
 ### Analytics Project 3: Can Commodity Prices Predict Currency Exchange Rates
 -Academic project
 
-* Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git
-* Contributed to Company proprietary email targeting algorithm for improving customer participation and savings rates
-* Explored relationships of ~30 customer demographic and activity data points
-* Constructed ad-hoc reports and visualizations in R, presented to a cross-functional product team
-* Assisted in A/B testing dozens of email template changes based on previous analysis, driving a 60% increase in click-through rate
+* Technologies used: Python, R, ggplot2, Excel
+* Capstone Undergraduate Research Project
+* Developed project Thesis; explored hypothesis that in certain economies, which rely heavily on a single commodity export, commodity prices can influence the countries' currency exchange rates against the U.S. Dollar
+* Collected and cleaned several sets of commodity price and exchange rate data
+* Constructed statistical analysis and created summary reports of findings in Python
+* Presented research and data visualizations to students and department faculty during a showcase presentation
+* Defended Thesis to panel of Economics faculty
 
 
 
