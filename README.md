@@ -4,7 +4,7 @@
 ## Analytics Projects:
 
 ### Analytics Project 1: Targeted Email Algorithm 
--Professional work
+-Professional Work
 
 * Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git
 * Contributed to Company proprietary email targeting algorithm for improving customer participation and savings rates
@@ -32,11 +32,11 @@
 -Capstone Undergraduate Research Project
 
 * Technologies used: Python, R, ggplot2, Excel
-* Developed project Thesis; explored hypothesis that in certain economies, which rely heavily on a single commodity export, commodity prices can influence the countries' currency exchange rates against the U.S. Dollar
+* Developed project Thesis; explored hypothesis that in certain economies, which rely heavily on a single commodity export, commodity prices can influence the countries' currency exchange rates compared against the U.S. Dollar
 * Collected and cleaned several sets of commodity price and exchange rate data
 * Constructed statistical analysis and created summary reports of findings in Python
 * Presented research and data visualizations to students and department faculty during a showcase presentation
-* Defended Thesis to panel of Economics faculty
+* Defended Thesis to a panel of Economics faculty
 
 
 
@@ -53,7 +53,7 @@
   * view GitHub profiles in-app (Safari ViewController) 
   * save interesting profiles to a favorites list that syncs to the cloud
 
-* Followed guide for base concept and design; expanded by adding cloud database (Firebase), custom error-handling, custom UI elements, edge-case optimization, iPad adaptibilty, and refactored Networking for faster downloading/caching
+* Followed guide for base concept and design; expanded upon by adding cloud database (Firebase), custom error-handling, custom UI elements, edge-case optimization, iPad adaptibilty, and refactored Networking for faster downloading/caching
 * In-app Images below: 
 
 ![](https://github.com/LxGrey/data_portfolio/blob/main/source_images/gh_searchscreen.png?raw=true)
