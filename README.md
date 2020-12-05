@@ -18,7 +18,7 @@
 -Undergraduate Research Project - (Econ 480: Regression and Economic Forecasting)
 
 * Technologies used: R, RStudio, ggplot2, Excel, Git
-* Collected multivariate time-series data for commodity indices (coffee, arabica beans, tea, etc.) streching back to 1980
+* Collected multivariate time-series data for commodity indices (coffee, arabica beans, tea, etc.) stretching back to 1980
 * Explored data correlation with AutoRegressive, Distributed Lag, ADL, and Rolling Forecasting models in R
 * Constructed Rolling Forecast models from scratch (as per project requirements) to predict future commodity index prices
 * Presented research and data visualizations to students and course professor
