@@ -7,7 +7,7 @@
 -Professional Work
 
 * Technologies used: R, RStudio, ggplot2, SQL, Python, Mode, Git
-* Contributed to Company proprietary email targeting algorithm for improving customer participation and savings rates
+* Contributed to Company proprietary email targeting algorithm for improving customer participation and customer savings rates
 * Explored relationships of ~30 customer demographic and activity data points
 * Constructed ad-hoc reports and visualizations in R, presented to a cross-functional product team
 * Assisted in A/B testing dozens of email template changes based on previous analysis, driving a 60% increase in click-through rate
